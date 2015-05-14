@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-fileupload",
+  "version": "1.0.0",
+  "authors": [
+    "Tudor-Dan Ravoiu <tudor2004@yahoo.com>"
+  ],
+  "description": "Bootstrap Fileupload",
+  "main": "dist/bootstrap-fileupload.min.js",
+  "keywords": [
+    "bootstrap",
+    "fileupload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
